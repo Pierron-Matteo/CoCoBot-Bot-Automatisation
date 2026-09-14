@@ -1,0 +1,25 @@
+# Licences & clés utilisateur
+license.json
+webhook.json
+
+# Logs
+bot_log.txt
+*.log
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Config runtime
+config.json
+
+# OS
+.DS_Store
+Thumbs.db
